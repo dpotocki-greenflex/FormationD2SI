@@ -3,6 +3,6 @@ resource "aws_subnet" "sub_training" {
 	cidr_block = "172.23.1.0/24"
 
 	tags {
-		name="SubNet-training"
+		Name="SubNet-training"
 	}
 }
