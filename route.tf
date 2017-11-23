@@ -10,4 +10,3 @@ resource "aws_route_table" "route_training" {
     Name = "Route-Training"
   }
 }
-

@@ -5,4 +5,3 @@ resource "aws_internet_gateway" "gw_training" {
     Name = "GW_Training"
   }
 }
-
